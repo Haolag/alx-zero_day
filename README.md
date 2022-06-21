@@ -1,2 +1,2 @@
-My first readme
-My first writeup file
+This is my first readme file
+
